@@ -1,0 +1,1031 @@
+│       │   │   │   ├── _CodeSignature
+│       │   │   │   │   └── CodeResources
+│       │   │   │   ├── sqflite
+│       │   │   │   └── sqflite_darwin_privacy.bundle
+│       │   │   │       ├── Info.plist
+│       │   │   │       └── PrivacyInfo.xcprivacy
+│       │   │   └── sqflite_darwin_privacy.bundle
+│       │   │       ├── Info.plist
+│       │   │       └── PrivacyInfo.xcprivacy
+│       │   ├── url_launcher_ios
+│       │   │   ├── url_launcher_ios.framework
+│       │   │   │   ├── Headers
+│       │   │   │   │   ├── url_launcher_ios-Swift.h
+│       │   │   │   │   └── url_launcher_ios-umbrella.h
+│       │   │   │   ├── Info.plist
+│       │   │   │   ├── Modules
+│       │   │   │   │   ├── module.modulemap
+│       │   │   │   │   └── url_launcher_ios.swiftmodule
+│       │   │   │   │       ├── Project
+│       │   │   │   │       │   ├── arm64-apple-ios-simulator.swiftsourceinfo
+│       │   │   │   │       │   └── x86_64-apple-ios-simulator.swiftsourceinfo
+│       │   │   │   │       ├── arm64-apple-ios-simulator.abi.json
+│       │   │   │   │       ├── arm64-apple-ios-simulator.swiftdoc
+│       │   │   │   │       ├── arm64-apple-ios-simulator.swiftmodule
+│       │   │   │   │       ├── x86_64-apple-ios-simulator.abi.json
+│       │   │   │   │       ├── x86_64-apple-ios-simulator.swiftdoc
+│       │   │   │   │       └── x86_64-apple-ios-simulator.swiftmodule
+│       │   │   │   ├── _CodeSignature
+│       │   │   │   │   └── CodeResources
+│       │   │   │   ├── url_launcher_ios
+│       │   │   │   └── url_launcher_ios_privacy.bundle
+│       │   │   │       ├── Info.plist
+│       │   │   │       └── PrivacyInfo.xcprivacy
+│       │   │   └── url_launcher_ios_privacy.bundle
+│       │   │       ├── Info.plist
+│       │   │       └── PrivacyInfo.xcprivacy
+│       │   └── webview_flutter_wkwebview
+│       │       ├── webview_flutter_wkwebview.framework
+│       │       │   ├── Headers
+│       │       │   │   ├── webview_flutter_wkwebview-Swift.h
+│       │       │   │   └── webview_flutter_wkwebview-umbrella.h
+│       │       │   ├── Info.plist
+│       │       │   ├── Modules
+│       │       │   │   ├── module.modulemap
+│       │       │   │   └── webview_flutter_wkwebview.swiftmodule
+│       │       │   │       ├── Project
+│       │       │   │       │   ├── arm64-apple-ios-simulator.swiftsourceinfo
+│       │       │   │       │   └── x86_64-apple-ios-simulator.swiftsourceinfo
+│       │       │   │       ├── arm64-apple-ios-simulator.abi.json
+│       │       │   │       ├── arm64-apple-ios-simulator.swiftdoc
+│       │       │   │       ├── arm64-apple-ios-simulator.swiftmodule
+│       │       │   │       ├── x86_64-apple-ios-simulator.abi.json
+│       │       │   │       ├── x86_64-apple-ios-simulator.swiftdoc
+│       │       │   │       └── x86_64-apple-ios-simulator.swiftmodule
+│       │       │   ├── _CodeSignature
+│       │       │   │   └── CodeResources
+│       │       │   ├── webview_flutter_wkwebview
+│       │       │   └── webview_flutter_wkwebview_privacy.bundle
+│       │       │       ├── Info.plist
+│       │       │       └── PrivacyInfo.xcprivacy
+│       │       └── webview_flutter_wkwebview_privacy.bundle
+│       │           ├── Info.plist
+│       │           └── PrivacyInfo.xcprivacy
+│       ├── XCBuildData
+│       │   └── PIFCache
+│       │       ├── project
+│       │       │   ├── PROJECT@v11_mod=0c2ffdb14e5684ead378534b58f19c79_hash=bfdfe7dc352907fc980b868725387e98plugins=1OJSG6M1FOV3XYQCBH7Z29RZ0FPR9XDE1-json
+│       │       │   ├── PROJECT@v11_mod=0f15d98695490c240e93311c4c69adb6_hash=bfdfe7dc352907fc980b868725387e98plugins=1OJSG6M1FOV3XYQCBH7Z29RZ0FPR9XDE1-json
+│       │       │   └── PROJECT@v11_mod=408af129c281e1456d23be2a9dd2f3c0_hash=bfdfe7dc352907fc980b868725387e98plugins=1OJSG6M1FOV3XYQCBH7Z29RZ0FPR9XDE1-json
+│       │       ├── target
+│       │       │   ├── TARGET@v11_hash=0841fc67b3b623a92a14f95250283070-json
+│       │       │   ├── TARGET@v11_hash=11fd311afea79b9a515d14e98b2e9655-json
+│       │       │   ├── TARGET@v11_hash=1468e9ee1a1cedbd4d21739b51a2627b-json
+│       │       │   ├── TARGET@v11_hash=1b34f671bead0491dab243d4ea49b953-json
+│       │       │   ├── TARGET@v11_hash=1ce8254db9630fde9877567ea1ed902f-json
+│       │       │   ├── TARGET@v11_hash=2434ce4b2f9ee851e6cb386029b94283-json
+│       │       │   ├── TARGET@v11_hash=274849a4b29dc886649ecd6a582f0ed5-json
+│       │       │   ├── TARGET@v11_hash=284c4d200d21515fda55a27a0031a7e7-json
+│       │       │   ├── TARGET@v11_hash=2fe0e0c794b8963ef2006e83464a4bd3-json
+│       │       │   ├── TARGET@v11_hash=31f37a2db545adace4216acaf20ab47e-json
+│       │       │   ├── TARGET@v11_hash=3674a8ac67a6939c2d8b65bec5e087a6-json
+│       │       │   ├── TARGET@v11_hash=3af59492348e306940e8e43cdf8d64b1-json
+│       │       │   ├── TARGET@v11_hash=4250b9fffcab748198947c1e8fb6dd6f-json
+│       │       │   ├── TARGET@v11_hash=4474ad38b3a8a938094a57ad7ac8252e-json
+│       │       │   ├── TARGET@v11_hash=4c8a3b339d9f30bcfcd2f72dff25e732-json
+│       │       │   ├── TARGET@v11_hash=5e9601a9f514f244963a5876db43d2b0-json
+│       │       │   ├── TARGET@v11_hash=5ff5a12df6253bdb143b270638112682-json
+│       │       │   ├── TARGET@v11_hash=6b448dd3f946226cd79a499c4f7861fb-json
+│       │       │   ├── TARGET@v11_hash=8e48bca7cacef7e80e3f75d8bec37e59-json
+│       │       │   ├── TARGET@v11_hash=9387d4a45f3bf3cd0145a354c3a11ecd-json
+│       │       │   ├── TARGET@v11_hash=9f8fe9f8896a873622d9b371cdf1d237-json
+│       │       │   ├── TARGET@v11_hash=a185607cfb2734af487b36f7576a5386-json
+│       │       │   ├── TARGET@v11_hash=a20950d64645d6ab6be5524a2f5ea2bb-json
+│       │       │   ├── TARGET@v11_hash=a2f731ced465d70be9f6503ef572a14e-json
+│       │       │   ├── TARGET@v11_hash=a6828e262a4bbe330a870d037efb3bd3-json
+│       │       │   ├── TARGET@v11_hash=b58d25900d6ad983b420524044c2a97e-json
+│       │       │   ├── TARGET@v11_hash=c4d258b014923f70e5cda8ec6f21e384-json
+│       │       │   ├── TARGET@v11_hash=c56500811503ee3bea3cffe51dda9f44-json
+│       │       │   ├── TARGET@v11_hash=cc58168ebb7aab98b329d2c47a304a87-json
+│       │       │   ├── TARGET@v11_hash=d13b27e5b8f1b548f995ad68972e5893-json
+│       │       │   └── TARGET@v11_hash=f972c2a0a756ead6526ee1bc3317f91b-json
+│       │       └── workspace
+│       │           ├── WORKSPACE@v11_hash=(null)_subobjects=5c12c1732e8b7d70ae519bcb0ed08fa4-json
+│       │           ├── WORKSPACE@v11_hash=(null)_subobjects=6730226543efb56081f8ba00e147a952-json
+│       │           └── WORKSPACE@v11_hash=(null)_subobjects=8715d9e243ba38e0e13cd42bf69a0509-json
+│       ├── iphonesimulator
+│       │   └── Runner.app
+│       │       ├── AppFrameworkInfo.plist
+│       │       ├── AppIcon60x60@2x.png
+│       │       ├── AppIcon76x76@2x~ipad.png
+│       │       ├── Assets.car
+│       │       ├── Base.lproj
+│       │       │   ├── LaunchScreen.storyboardc
+│       │       │   │   ├── 01J-lp-oVM-view-Ze5-6b-2t3.nib
+│       │       │   │   ├── Info.plist
+│       │       │   │   └── UIViewController-01J-lp-oVM.nib
+│       │       │   └── Main.storyboardc
+│       │       │       ├── BYZ-38-t0r-view-8bC-Xf-vdC.nib
+│       │       │       ├── Info.plist
+│       │       │       └── UIViewController-BYZ-38-t0r.nib
+│       │       ├── Frameworks
+│       │       │   ├── App.framework
+│       │       │   │   ├── App
+│       │       │   │   ├── Info.plist
+│       │       │   │   ├── _CodeSignature
+│       │       │   │   │   └── CodeResources
+│       │       │   │   └── flutter_assets
+│       │       │   │       ├── AssetManifest.bin
+│       │       │   │       ├── AssetManifest.json
+│       │       │   │       ├── FontManifest.json
+│       │       │   │       ├── NOTICES.Z
+│       │       │   │       ├── assets
+│       │       │   │       │   ├── fonts
+│       │       │   │       │   │   ├── Poppins-Bold.ttf
+│       │       │   │       │   │   ├── Poppins-BoldItalic.ttf
+│       │       │   │       │   │   ├── Poppins-ExtraBold.ttf
+│       │       │   │       │   │   ├── Poppins-ExtraBoldItalic.ttf
+│       │       │   │       │   │   ├── Poppins-ExtraLight.ttf
+│       │       │   │       │   │   ├── Poppins-ExtraLightItalic.ttf
+│       │       │   │       │   │   ├── Poppins-Italic.ttf
+│       │       │   │       │   │   ├── Poppins-Light.ttf
+│       │       │   │       │   │   ├── Poppins-LightItalic.ttf
+│       │       │   │       │   │   ├── Poppins-Medium.ttf
+│       │       │   │       │   │   ├── Poppins-MediumItalic.ttf
+│       │       │   │       │   │   ├── Poppins-Regular.ttf
+│       │       │   │       │   │   ├── Poppins-SemiBold.ttf
+│       │       │   │       │   │   └── Poppins-SemiBoldItalic.ttf
+│       │       │   │       │   ├── images
+│       │       │   │       │   │   ├── add-icon.png
+│       │       │   │       │   │   ├── agreement.png
+│       │       │   │       │   │   ├── arrow_down.png
+│       │       │   │       │   │   ├── arrow_right.png
+│       │       │   │       │   │   ├── arrow_top.png
+│       │       │   │       │   │   ├── avatar-placeholder.png
+│       │       │   │       │   │   ├── bnext-white-logo.png
+│       │       │   │       │   │   ├── bnext_logo.png
+│       │       │   │       │   │   ├── budget_icon.png
+│       │       │   │       │   │   ├── calender_icon.png
+│       │       │   │       │   │   ├── chat-icon.png
+│       │       │   │       │   │   ├── checkbox_icon.png
+│       │       │   │       │   │   ├── circle_white_icon.png
+│       │       │   │       │   │   ├── corporation.png
+│       │       │   │       │   │   ├── disney-logo.png
+│       │       │   │       │   │   ├── driver.png
+│       │       │   │       │   │   ├── dummy_banner.png
+│       │       │   │       │   │   ├── folder_icon.png
+│       │       │   │       │   │   ├── freefire-logo.png
+│       │       │   │       │   │   ├── gmaps.png
+│       │       │   │       │   │   ├── google_maps.png
+│       │       │   │       │   │   ├── helpdesk-icon.png
+│       │       │   │       │   │   ├── histori_icon.png
+│       │       │   │       │   │   ├── history-icon.png
+│       │       │   │       │   │   ├── history-transaction-icon.png
+│       │       │   │       │   │   ├── home-icon.png
+│       │       │   │       │   │   ├── its_icon.png
+│       │       │   │       │   │   ├── language-icon.png
+│       │       │   │       │   │   ├── member-card.png
+│       │       │   │       │   │   ├── message.png
+│       │       │   │       │   │   ├── mobil1.png
+│       │       │   │       │   │   ├── mobil2.png
+│       │       │   │       │   │   ├── mobilelegend-logo.png
+│       │       │   │       │   │   ├── navbar-logo.png
+│       │       │   │       │   │   ├── nearby.png
+│       │       │   │       │   │   ├── netflix-logo.png
+│       │       │   │       │   │   ├── netflix-streaming-app.png
+│       │       │   │       │   │   ├── notif-icon.png
+│       │       │   │       │   │   ├── partnership-icon.png
+│       │       │   │       │   │   ├── payment-icon.png
+│       │       │   │       │   │   ├── pencil_icon.png
+│       │       │   │       │   │   ├── person_logistic_icon.png
+│       │       │   │       │   │   ├── photo_profile.png
+│       │       │   │       │   │   ├── prime-logo.png
+│       │       │   │       │   │   ├── profile-avatar.png
+│       │       │   │       │   │   ├── profile_icon.png
+│       │       │   │       │   │   ├── profile_place_holder.png
+│       │       │   │       │   │   ├── promo-icon.png
+│       │       │   │       │   │   ├── promo_icon.png
+│       │       │   │       │   │   ├── pubg-logo.png
+│       │       │   │       │   │   ├── repairing-service.png
+│       │       │   │       │   │   ├── reward-icon.png
+│       │       │   │       │   │   ├── roblox-logo.png
+│       │       │   │       │   │   ├── rounded_checkbox_icon.png
+│       │       │   │       │   │   ├── settings-icon.png
+│       │       │   │       │   │   ├── shipping.png
+│       │       │   │       │   │   ├── sim_place_holder.png
+│       │       │   │       │   │   ├── smartbox-premium.png
+│       │       │   │       │   │   ├── smartbox1.png
+│       │       │   │       │   │   ├── splashcontent1.png
+│       │       │   │       │   │   ├── splashcontent2.png
+│       │       │   │       │   │   ├── splashcontent3.png
+│       │       │   │       │   │   ├── splashcontent4.png
+│       │       │   │       │   │   ├── statistics_icon.png
+│       │       │   │       │   │   ├── tow-truck.png
+│       │       │   │       │   │   ├── towing-gendong.png
+│       │       │   │       │   │   ├── towing-hidrolik.png
+│       │       │   │       │   │   ├── towing_boom.png
+│       │       │   │       │   │   ├── vidio-logo.png
+│       │       │   │       │   │   ├── vip-icon.png
+│       │       │   │       │   │   ├── viu-logo.png
+│       │       │   │       │   │   ├── wallet-icon.png
+│       │       │   │       │   │   ├── wallet_icon.png
+│       │       │   │       │   │   ├── wetv-logo.png
+│       │       │   │       │   │   └── whatsapp.png
+│       │       │   │       │   └── svg
+│       │       │   │       │       ├── arrow_left.svg
+│       │       │   │       │       ├── arrow_left_background.svg
+│       │       │   │       │       ├── check.svg
+│       │       │   │       │       ├── chevron_right.svg
+│       │       │   │       │       ├── filter_search.svg
+│       │       │   │       │       ├── image-placeholder.svg
+│       │       │   │       │       ├── location.svg
+│       │       │   │       │       └── search.svg
+│       │       │   │       ├── fonts
+│       │       │   │       │   └── MaterialIcons-Regular.otf
+│       │       │   │       ├── isolate_snapshot_data
+│       │       │   │       ├── kernel_blob.bin
+│       │       │   │       ├── packages
+│       │       │   │       │   └── cupertino_icons
+│       │       │   │       │       └── assets
+│       │       │   │       │           └── CupertinoIcons.ttf
+│       │       │   │       ├── shaders
+│       │       │   │       │   └── ink_sparkle.frag
+│       │       │   │       └── vm_snapshot_data
+│       │       │   ├── Flutter.framework
+│       │       │   │   ├── Flutter
+│       │       │   │   ├── Headers
+│       │       │   │   │   ├── Flutter.h
+│       │       │   │   │   ├── FlutterAppDelegate.h
+│       │       │   │   │   ├── FlutterBinaryMessenger.h
+│       │       │   │   │   ├── FlutterCallbackCache.h
+│       │       │   │   │   ├── FlutterChannels.h
+│       │       │   │   │   ├── FlutterCodecs.h
+│       │       │   │   │   ├── FlutterDartProject.h
+│       │       │   │   │   ├── FlutterEngine.h
+│       │       │   │   │   ├── FlutterEngineGroup.h
+│       │       │   │   │   ├── FlutterHeadlessDartRunner.h
+│       │       │   │   │   ├── FlutterMacros.h
+│       │       │   │   │   ├── FlutterPlatformViews.h
+│       │       │   │   │   ├── FlutterPlugin.h
+│       │       │   │   │   ├── FlutterPluginAppLifeCycleDelegate.h
+│       │       │   │   │   ├── FlutterTexture.h
+│       │       │   │   │   └── FlutterViewController.h
+│       │       │   │   ├── Info.plist
+│       │       │   │   ├── Modules
+│       │       │   │   │   └── module.modulemap
+│       │       │   │   ├── PrivacyInfo.xcprivacy
+│       │       │   │   ├── _CodeSignature
+│       │       │   │   │   └── CodeResources
+│       │       │   │   └── icudtl.dat
+│       │       │   ├── path_provider_foundation.framework
+│       │       │   │   ├── Info.plist
+│       │       │   │   ├── _CodeSignature
+│       │       │   │   │   └── CodeResources
+│       │       │   │   ├── path_provider_foundation
+│       │       │   │   └── path_provider_foundation_privacy.bundle
+│       │       │   │       ├── Info.plist
+│       │       │   │       └── PrivacyInfo.xcprivacy
+│       │       │   ├── shared_preferences_foundation.framework
+│       │       │   │   ├── Info.plist
+│       │       │   │   ├── _CodeSignature
+│       │       │   │   │   └── CodeResources
+│       │       │   │   ├── shared_preferences_foundation
+│       │       │   │   └── shared_preferences_foundation_privacy.bundle
+│       │       │   │       ├── Info.plist
+│       │       │   │       └── PrivacyInfo.xcprivacy
+│       │       │   ├── sqflite.framework
+│       │       │   │   ├── Info.plist
+│       │       │   │   ├── _CodeSignature
+│       │       │   │   │   └── CodeResources
+│       │       │   │   ├── sqflite
+│       │       │   │   └── sqflite_darwin_privacy.bundle
+│       │       │   │       ├── Info.plist
+│       │       │   │       └── PrivacyInfo.xcprivacy
+│       │       │   ├── url_launcher_ios.framework
+│       │       │   │   ├── Info.plist
+│       │       │   │   ├── _CodeSignature
+│       │       │   │   │   └── CodeResources
+│       │       │   │   ├── url_launcher_ios
+│       │       │   │   └── url_launcher_ios_privacy.bundle
+│       │       │   │       ├── Info.plist
+│       │       │   │       └── PrivacyInfo.xcprivacy
+│       │       │   └── webview_flutter_wkwebview.framework
+│       │       │       ├── Info.plist
+│       │       │       ├── _CodeSignature
+│       │       │       │   └── CodeResources
+│       │       │       ├── webview_flutter_wkwebview
+│       │       │       └── webview_flutter_wkwebview_privacy.bundle
+│       │       │           ├── Info.plist
+│       │       │           └── PrivacyInfo.xcprivacy
+│       │       ├── Info.plist
+│       │       ├── PkgInfo
+│       │       ├── Runner
+│       │       ├── Runner.debug.dylib
+│       │       ├── _CodeSignature
+│       │       │   └── CodeResources
+│       │       └── __preview.dylib
+│       └── pod_inputs.fingerprint
+├── ios
+│   ├── Flutter
+│   │   ├── AppFrameworkInfo.plist
+│   │   ├── Debug.xcconfig
+│   │   ├── Flutter.podspec
+│   │   ├── Generated.xcconfig
+│   │   ├── Release.xcconfig
+│   │   └── flutter_export_environment.sh
+│   ├── Podfile
+│   ├── Podfile.lock
+│   ├── Pods
+│   │   ├── Headers
+│   │   ├── Local Podspecs
+│   │   │   ├── Flutter.podspec.json
+│   │   │   ├── path_provider_foundation.podspec.json
+│   │   │   ├── shared_preferences_foundation.podspec.json
+│   │   │   ├── sqflite.podspec.json
+│   │   │   ├── url_launcher_ios.podspec.json
+│   │   │   └── webview_flutter_wkwebview.podspec.json
+│   │   ├── Manifest.lock
+│   │   ├── Pods.xcodeproj
+│   │   │   ├── project.pbxproj
+│   │   │   └── xcuserdata
+│   │   │       └── aurellghania.xcuserdatad
+│   │   │           └── xcschemes
+│   │   │               ├── Flutter.xcscheme
+│   │   │               ├── Pods-Runner.xcscheme
+│   │   │               ├── Pods-RunnerTests.xcscheme
+│   │   │               ├── path_provider_foundation-path_provider_foundation_privacy.xcscheme
+│   │   │               ├── path_provider_foundation.xcscheme
+│   │   │               ├── shared_preferences_foundation-shared_preferences_foundation_privacy.xcscheme
+│   │   │               ├── shared_preferences_foundation.xcscheme
+│   │   │               ├── sqflite-sqflite_darwin_privacy.xcscheme
+│   │   │               ├── sqflite.xcscheme
+│   │   │               ├── url_launcher_ios-url_launcher_ios_privacy.xcscheme
+│   │   │               ├── url_launcher_ios.xcscheme
+│   │   │               ├── webview_flutter_wkwebview-webview_flutter_wkwebview_privacy.xcscheme
+│   │   │               ├── webview_flutter_wkwebview.xcscheme
+│   │   │               └── xcschememanagement.plist
+│   │   └── Target Support Files
+│   │       ├── Flutter
+│   │       │   ├── Flutter.debug.xcconfig
+│   │       │   └── Flutter.release.xcconfig
+│   │       ├── Pods-Runner
+│   │       │   ├── Pods-Runner-Info.plist
+│   │       │   ├── Pods-Runner-acknowledgements.markdown
+│   │       │   ├── Pods-Runner-acknowledgements.plist
+│   │       │   ├── Pods-Runner-dummy.m
+│   │       │   ├── Pods-Runner-frameworks-Debug-input-files.xcfilelist
+│   │       │   ├── Pods-Runner-frameworks-Debug-output-files.xcfilelist
+│   │       │   ├── Pods-Runner-frameworks-Profile-input-files.xcfilelist
+│   │       │   ├── Pods-Runner-frameworks-Profile-output-files.xcfilelist
+│   │       │   ├── Pods-Runner-frameworks-Release-input-files.xcfilelist
+│   │       │   ├── Pods-Runner-frameworks-Release-output-files.xcfilelist
+│   │       │   ├── Pods-Runner-frameworks.sh
+│   │       │   ├── Pods-Runner-umbrella.h
+│   │       │   ├── Pods-Runner.debug.xcconfig
+│   │       │   ├── Pods-Runner.modulemap
+│   │       │   ├── Pods-Runner.profile.xcconfig
+│   │       │   └── Pods-Runner.release.xcconfig
+│   │       ├── Pods-RunnerTests
+│   │       │   ├── Pods-RunnerTests-Info.plist
+│   │       │   ├── Pods-RunnerTests-acknowledgements.markdown
+│   │       │   ├── Pods-RunnerTests-acknowledgements.plist
+│   │       │   ├── Pods-RunnerTests-dummy.m
+│   │       │   ├── Pods-RunnerTests-umbrella.h
+│   │       │   ├── Pods-RunnerTests.debug.xcconfig
+│   │       │   ├── Pods-RunnerTests.modulemap
+│   │       │   ├── Pods-RunnerTests.profile.xcconfig
+│   │       │   └── Pods-RunnerTests.release.xcconfig
+│   │       ├── path_provider_foundation
+│   │       │   ├── ResourceBundle-path_provider_foundation_privacy-path_provider_foundation-Info.plist
+│   │       │   ├── path_provider_foundation-Info.plist
+│   │       │   ├── path_provider_foundation-dummy.m
+│   │       │   ├── path_provider_foundation-prefix.pch
+│   │       │   ├── path_provider_foundation-umbrella.h
+│   │       │   ├── path_provider_foundation.debug.xcconfig
+│   │       │   ├── path_provider_foundation.modulemap
+│   │       │   └── path_provider_foundation.release.xcconfig
+│   │       ├── shared_preferences_foundation
+│   │       │   ├── ResourceBundle-shared_preferences_foundation_privacy-shared_preferences_foundation-Info.plist
+│   │       │   ├── shared_preferences_foundation-Info.plist
+│   │       │   ├── shared_preferences_foundation-dummy.m
+│   │       │   ├── shared_preferences_foundation-prefix.pch
+│   │       │   ├── shared_preferences_foundation-umbrella.h
+│   │       │   ├── shared_preferences_foundation.debug.xcconfig
+│   │       │   ├── shared_preferences_foundation.modulemap
+│   │       │   └── shared_preferences_foundation.release.xcconfig
+│   │       ├── sqflite
+│   │       │   ├── ResourceBundle-sqflite_darwin_privacy-sqflite-Info.plist
+│   │       │   ├── sqflite-Info.plist
+│   │       │   ├── sqflite-dummy.m
+│   │       │   ├── sqflite-prefix.pch
+│   │       │   ├── sqflite-umbrella.h
+│   │       │   ├── sqflite.debug.xcconfig
+│   │       │   ├── sqflite.modulemap
+│   │       │   └── sqflite.release.xcconfig
+│   │       ├── url_launcher_ios
+│   │       │   ├── ResourceBundle-url_launcher_ios_privacy-url_launcher_ios-Info.plist
+│   │       │   ├── url_launcher_ios-Info.plist
+│   │       │   ├── url_launcher_ios-dummy.m
+│   │       │   ├── url_launcher_ios-prefix.pch
+│   │       │   ├── url_launcher_ios-umbrella.h
+│   │       │   ├── url_launcher_ios.debug.xcconfig
+│   │       │   ├── url_launcher_ios.modulemap
+│   │       │   └── url_launcher_ios.release.xcconfig
+│   │       └── webview_flutter_wkwebview
+│   │           ├── ResourceBundle-webview_flutter_wkwebview_privacy-webview_flutter_wkwebview-Info.plist
+│   │           ├── webview_flutter_wkwebview-Info.plist
+│   │           ├── webview_flutter_wkwebview-dummy.m
+│   │           ├── webview_flutter_wkwebview-prefix.pch
+│   │           ├── webview_flutter_wkwebview-umbrella.h
+│   │           ├── webview_flutter_wkwebview.debug.xcconfig
+│   │           ├── webview_flutter_wkwebview.modulemap
+│   │           └── webview_flutter_wkwebview.release.xcconfig
+│   ├── Runner
+│   │   ├── AppDelegate.swift
+│   │   ├── Assets.xcassets
+│   │   │   ├── AppIcon.appiconset
+│   │   │   │   ├── Contents.json
+│   │   │   │   ├── Icon-App-1024x1024@1x.png
+│   │   │   │   ├── Icon-App-20x20@1x.png
+│   │   │   │   ├── Icon-App-20x20@2x.png
+│   │   │   │   ├── Icon-App-20x20@3x.png
+│   │   │   │   ├── Icon-App-29x29@1x.png
+│   │   │   │   ├── Icon-App-29x29@2x.png
+│   │   │   │   ├── Icon-App-29x29@3x.png
+│   │   │   │   ├── Icon-App-40x40@1x.png
+│   │   │   │   ├── Icon-App-40x40@2x.png
+│   │   │   │   ├── Icon-App-40x40@3x.png
+│   │   │   │   ├── Icon-App-60x60@2x.png
+│   │   │   │   ├── Icon-App-60x60@3x.png
+│   │   │   │   ├── Icon-App-76x76@1x.png
+│   │   │   │   ├── Icon-App-76x76@2x.png
+│   │   │   │   └── Icon-App-83.5x83.5@2x.png
+│   │   │   └── LaunchImage.imageset
+│   │   │       ├── Contents.json
+│   │   │       ├── LaunchImage.png
+│   │   │       ├── LaunchImage@2x.png
+│   │   │       ├── LaunchImage@3x.png
+│   │   │       └── README.md
+│   │   ├── Base.lproj
+│   │   │   ├── LaunchScreen.storyboard
+│   │   │   └── Main.storyboard
+│   │   ├── GeneratedPluginRegistrant.h
+│   │   ├── GeneratedPluginRegistrant.m
+│   │   ├── Info.plist
+│   │   └── Runner-Bridging-Header.h
+│   ├── Runner.xcodeproj
+│   │   ├── project.pbxproj
+│   │   ├── project.xcworkspace
+│   │   │   ├── contents.xcworkspacedata
+│   │   │   └── xcshareddata
+│   │   │       ├── IDEWorkspaceChecks.plist
+│   │   │       ├── WorkspaceSettings.xcsettings
+│   │   │       └── swiftpm
+│   │   │           └── configuration
+│   │   └── xcshareddata
+│   │       └── xcschemes
+│   │           └── Runner.xcscheme
+│   ├── Runner.xcworkspace
+│   │   ├── contents.xcworkspacedata
+│   │   └── xcshareddata
+│   │       ├── IDEWorkspaceChecks.plist
+│   │       ├── WorkspaceSettings.xcsettings
+│   │       └── swiftpm
+│   │           └── configuration
+│   └── RunnerTests
+│       └── RunnerTests.swift
+├── l10n.yaml
+├── lib
+│   ├── app.dart
+│   ├── config
+│   │   ├── bloc
+│   │   │   └── observer.dart
+│   │   ├── config.dart
+│   │   ├── di
+│   │   │   ├── core.injection.dart
+│   │   │   ├── di.dart
+│   │   │   ├── injection.config.dart
+│   │   │   ├── injection.dart
+│   │   │   └── setup_injection.dart
+│   │   ├── local
+│   │   │   ├── box_keys.dart
+│   │   │   ├── hive_adapters.dart
+│   │   │   ├── hive_service.dart
+│   │   │   └── register_adapters.dart
+│   │   ├── router
+│   │   │   ├── app_route_observer.dart
+│   │   │   ├── app_router.dart
+│   │   │   ├── app_router.gr.dart
+│   │   │   ├── guards
+│   │   │   │   ├── onboarding_guard.dart
+│   │   │   │   └── splash_guard.dart
+│   │   │   └── router.dart
+│   │   └── theme
+│   │       ├── app_colors.dart
+│   │       ├── app_theme.dart
+│   │       └── theme.dart
+│   ├── core
+│   │   ├── core.dart
+│   │   ├── data
+│   │   │   ├── data.dart
+│   │   │   ├── error
+│   │   │   │   ├── error.dart
+│   │   │   │   ├── error_object.dart
+│   │   │   │   ├── error_object.freezed.dart
+│   │   │   │   ├── exception.dart
+│   │   │   │   ├── failure.dart
+│   │   │   │   └── failure.freezed.dart
+│   │   │   ├── network
+│   │   │   │   ├── api_client.dart
+│   │   │   │   ├── api_interceptor.dart
+│   │   │   │   └── network.dart
+│   │   │   └── util
+│   │   │       ├── data_source_util.dart
+│   │   │       ├── isolate_parser.dart
+│   │   │       ├── repository_util.dart
+│   │   │       └── util.dart
+│   │   ├── domain
+│   │   │   ├── domain.dart
+│   │   │   └── usecase.dart
+│   │   ├── l10n
+│   │   │   ├── app_en.arb
+│   │   │   ├── app_id.arb
+│   │   │   ├── app_localizations.dart
+│   │   │   ├── app_localizations_en.dart
+│   │   │   └── app_localizations_id.dart
+│   │   ├── language_cubit
+│   │   │   ├── language_cubit.dart
+│   │   │   ├── language_cubit.freezed.dart
+│   │   │   └── language_state.dart
+│   │   └── presentation
+│   │       ├── constants
+│   │       │   ├── constants.dart
+│   │       │   └── sizes.dart
+│   │       ├── extension
+│   │       │   ├── build_context_extension.dart
+│   │       │   ├── extension.dart
+│   │       │   ├── string_extension.dart
+│   │       │   └── text_style_extension.dart
+│   │       └── presentation.dart
+│   ├── feature
+│   │   ├── auth
+│   │   │   ├── auth.dart
+│   │   │   ├── data
+│   │   │   │   ├── datasources
+│   │   │   │   │   ├── auth_remote_data_source.dart
+│   │   │   │   │   ├── impl
+│   │   │   │   │   │   └── auth_remote_data_source_impl.dart
+│   │   │   │   │   └── session_manager.dart
+│   │   │   │   ├── mapper
+│   │   │   │   │   ├── mapper.dart
+│   │   │   │   │   └── token_mapper.dart
+│   │   │   │   ├── models
+│   │   │   │   │   ├── login_response.dart
+│   │   │   │   │   ├── login_response.freezed.dart
+│   │   │   │   │   ├── login_response.g.dart
+│   │   │   │   │   ├── token_model.dart
+│   │   │   │   │   ├── token_model.freezed.dart
+│   │   │   │   │   └── token_model.g.dart
+│   │   │   │   └── repositories
+│   │   │   │       ├── auth_repository_impl.dart
+│   │   │   │       └── repositories.dart
+│   │   │   ├── domain
+│   │   │   │   ├── domain.dart
+│   │   │   │   ├── repositories
+│   │   │   │   │   ├── auth_repository.dart
+│   │   │   │   │   └── repositories.dart
+│   │   │   │   └── usecase
+│   │   │   │       ├── login_use_case.dart
+│   │   │   │       ├── register_use_case.dart
+│   │   │   │       ├── sendotp_use_case.dart
+│   │   │   │       ├── usecase.dart
+│   │   │   │       └── verifyotp_use_case.dart
+│   │   │   ├── params
+│   │   │   │   ├── login_params.dart
+│   │   │   │   ├── register_params.dart
+│   │   │   │   └── verify_otp_params.dart
+│   │   │   └── presentation
+│   │   │       ├── components
+│   │   │       │   ├── components.dart
+│   │   │       │   └── driver_regis_item.dart
+│   │   │       ├── otp
+│   │   │       │   ├── component
+│   │   │       │   │   └── otp_numpad_widget.dart
+│   │   │       │   ├── cubit
+│   │   │       │   │   ├── otp_cubit.dart
+│   │   │       │   │   ├── otp_state.dart
+│   │   │       │   │   └── otp_state.freezed.dart
+│   │   │       │   ├── otp.dart
+│   │   │       │   └── otp_page.dart
+│   │   │       ├── presentation.dart
+│   │   │       ├── user_login
+│   │   │       │   ├── cubit
+│   │   │       │   │   ├── user_login_cubit.dart
+│   │   │       │   │   ├── user_login_state.dart
+│   │   │       │   │   └── user_login_state.freezed.dart
+│   │   │       │   ├── user_login.dart
+│   │   │       │   └── user_login_page.dart
+│   │   │       └── user_register
+│   │   │           ├── cubit
+│   │   │           │   ├── user_register_cubit.dart
+│   │   │           │   ├── user_register_state.dart
+│   │   │           │   └── user_register_state.freezed.dart
+│   │   │           ├── user_register.dart
+│   │   │           └── user_register_page.dart
+│   │   ├── bnext_product
+│   │   │   ├── bnext_product
+│   │   │   │   ├── bnext_product.dart
+│   │   │   │   ├── data
+│   │   │   │   │   ├── datasources
+│   │   │   │   │   │   └── product_remote_datasource.dart
+│   │   │   │   │   └── models
+│   │   │   │   │       └── product_model.dart
+│   │   │   │   ├── domain
+│   │   │   │   │   ├── entities
+│   │   │   │   │   │   └── product_entity.dart
+│   │   │   │   │   ├── repositories
+│   │   │   │   │   │   ├── impl
+│   │   │   │   │   │   │   └── product_repository_impl.dart
+│   │   │   │   │   │   └── product_repository.dart
+│   │   │   │   │   └── usecases
+│   │   │   │   │       ├── get_products_by_category_usecase.dart
+│   │   │   │   │       └── get_products_usecase.dart
+│   │   │   │   └── presentation
+│   │   │   │       ├── bnext_product
+│   │   │   │       │   ├── bnext_product.dart
+│   │   │   │       │   ├── bnext_product_page.dart
+│   │   │   │       │   └── cubit
+│   │   │   │       │       ├── product_cubit.dart
+│   │   │   │       │       └── product_state.dart
+│   │   │   │       ├── bnext_product_co.dart
+│   │   │   │       │   ├── bnext_product_co.dart.dart
+│   │   │   │       │   ├── bnext_product_co_page.dart
+│   │   │   │       │   ├── payment_method_page.dart
+│   │   │   │       │   ├── product_add_address_page.dart
+│   │   │   │       │   ├── product_detail_address_page.dart
+│   │   │   │       │   ├── product_ongkir_page.dart
+│   │   │   │       │   └── product_voucher_page.dart
+│   │   │   │       ├── bnext_product_order
+│   │   │   │       │   ├── bnext_product_order.dart
+│   │   │   │       │   └── bnext_product_order_page.dart
+│   │   │   │       └── presentation.dart
+│   │   │   ├── internet_product
+│   │   │   │   ├── internet_product.dart
+│   │   │   │   └── presentation
+│   │   │   │       ├── internet_product
+│   │   │   │       │   ├── internet_product.dart
+│   │   │   │       │   └── internet_product_page.dart
+│   │   │   │       ├── internet_product_order
+│   │   │   │       │   ├── internet_product_order.dart
+│   │   │   │       │   └── internet_product_order_page.dart
+│   │   │   │       └── presentation.dart
+│   │   │   └── ott_product
+│   │   │       ├── ott_product.dart
+│   │   │       └── presentation
+│   │   │           ├── ott_product
+│   │   │           │   ├── ott_product.dart
+│   │   │           │   └── ott_produdct_page.dart
+│   │   │           ├── ott_product_order
+│   │   │           │   ├── ott_product_order.dart
+│   │   │           │   └── ott_product_order_page.dart
+│   │   │           └── presentation.dart
+│   │   ├── customer_service
+│   │   │   ├── customer_service.dart
+│   │   │   └── presentation
+│   │   │       ├── customer_service
+│   │   │       │   ├── component
+│   │   │       │   │   └── customer_service_loading.dart
+│   │   │       │   ├── customer_service.dart
+│   │   │       │   └── customer_service_page.dart
+│   │   │       └── presentation.dart
+│   │   ├── dashboard
+│   │   │   ├── dashboard.dart
+│   │   │   └── presentation
+│   │   │       ├── dashboard
+│   │   │       │   ├── components
+│   │   │       │   │   ├── app_bar.dart
+│   │   │       │   │   ├── banner_slider_widget.dart
+│   │   │       │   │   ├── banner_widget.dart
+│   │   │       │   │   ├── components.dart
+│   │   │       │   │   ├── game_channel_item.dart
+│   │   │       │   │   ├── game_slider_widget.dart
+│   │   │       │   │   ├── get_banners.dart
+│   │   │       │   │   ├── mini_slider_widget.dart
+│   │   │       │   │   ├── potrait_slider_widget.dart
+│   │   │       │   │   ├── product_card.dart
+│   │   │       │   │   ├── video_app_iitem.dart
+│   │   │       │   │   └── video_slider_widget.dart
+│   │   │       │   ├── dashboard_page.dart
+│   │   │       │   └── dashboard_page_old.dart
+│   │   │       └── presentation.dart
+│   │   ├── history
+│   │   │   ├── history.dart
+│   │   │   └── presentation
+│   │   │       ├── history
+│   │   │       │   ├── components
+│   │   │       │   │   └── history_item_widget.dart
+│   │   │       │   ├── history detail
+│   │   │       │   │   └── history_detail_page.dart
+│   │   │       │   └── history_page.dart
+│   │   │       └── presentation.dart
+│   │   ├── partnership
+│   │   │   ├── partnership.dart
+│   │   │   └── presentation
+│   │   │       ├── partnership
+│   │   │       │   ├── partnership.dart
+│   │   │       │   └── partnership_page.dart
+│   │   │       └── presentation.dart
+│   │   ├── pre_login
+│   │   │   ├── onboard.dart
+│   │   │   └── presentation
+│   │   │       ├── pre_login_page.dart
+│   │   │       └── presentation.dart
+│   │   ├── profile
+│   │   │   ├── presentation
+│   │   │   │   ├── help_center
+│   │   │   │   │   ├── help_center.dart
+│   │   │   │   │   ├── help_center_controller.dart
+│   │   │   │   │   └── help_center_page.dart
+│   │   │   │   ├── language
+│   │   │   │   │   ├── language.dart
+│   │   │   │   │   └── language_page.dart
+│   │   │   │   ├── presentation.dart
+│   │   │   │   ├── profile
+│   │   │   │   │   ├── profile.dart
+│   │   │   │   │   └── profile_page.dart
+│   │   │   │   ├── profile_edit
+│   │   │   │   │   ├── profile_edit.dart
+│   │   │   │   │   └── profile_edit_page.dart
+│   │   │   │   └── settings_app
+│   │   │   │       ├── settings_app.dart
+│   │   │   │       └── settings_app_page.dart
+│   │   │   └── profile.dart
+│   │   ├── promo
+│   │   │   ├── presentation
+│   │   │   │   ├── presentation.dart
+│   │   │   │   ├── promo
+│   │   │   │   │   ├── components
+│   │   │   │   │   │   ├── components.dart
+│   │   │   │   │   │   ├── discount_banner.dart
+│   │   │   │   │   │   ├── flash_sale_button.dart
+│   │   │   │   │   │   ├── product_grid.dart
+│   │   │   │   │   │   └── promo_header.dart
+│   │   │   │   │   ├── promo.dart
+│   │   │   │   │   └── promo_page.dart
+│   │   │   │   └── promo-detail
+│   │   │   │       ├── promo-detail.dart
+│   │   │   │       └── promo_detail_page.dart
+│   │   │   └── promo.dart
+│   │   ├── reward
+│   │   │   ├── presentation
+│   │   │   │   ├── dialog
+│   │   │   │   │   └── spin_wheel_dialog.dart
+│   │   │   │   ├── presentation.dart
+│   │   │   │   ├── reward
+│   │   │   │   │   ├── components
+│   │   │   │   │   │   ├── app_bar_reward.dart
+│   │   │   │   │   │   ├── filter_option.dart
+│   │   │   │   │   │   ├── fortune_wheel.dart
+│   │   │   │   │   │   ├── points_card.dart
+│   │   │   │   │   │   ├── reward_grid.dart
+│   │   │   │   │   │   └── tab_selector.dart
+│   │   │   │   │   └── reward_page.dart
+│   │   │   │   ├── reward_detail
+│   │   │   │   │   └── reward_detail_page.dart
+│   │   │   │   └── spin_wheel_controller.dart
+│   │   │   └── reward.dart
+│   │   ├── shared
+│   │   │   ├── components
+│   │   │   │   ├── components.dart
+│   │   │   │   ├── history_item_widget.dart
+│   │   │   │   ├── payment_item.dart
+│   │   │   │   └── towing_information_item_card.dart
+│   │   │   ├── data
+│   │   │   │   ├── data.dart
+│   │   │   │   ├── datasources
+│   │   │   │   │   ├── datasources.dart
+│   │   │   │   │   ├── impl
+│   │   │   │   │   │   ├── impl.dart
+│   │   │   │   │   │   ├── user_local_data_source_impl.dart
+│   │   │   │   │   │   └── user_remote_data_source_impl.dart
+│   │   │   │   │   ├── user_local_data_source.dart
+│   │   │   │   │   └── user_remote_data_source.dart
+│   │   │   │   ├── mapper
+│   │   │   │   │   ├── mapper.dart
+│   │   │   │   │   ├── token_mapper.dart
+│   │   │   │   │   ├── user_mapper.dart
+│   │   │   │   │   └── user_profile_mapper.dart
+│   │   │   │   ├── models
+│   │   │   │   │   ├── error_model.dart
+│   │   │   │   │   ├── error_model.g.dart
+│   │   │   │   │   ├── models.dart
+│   │   │   │   │   ├── user_model.dart
+│   │   │   │   │   ├── user_model.freezed.dart
+│   │   │   │   │   ├── user_model.g.dart
+│   │   │   │   │   ├── user_profile_model.dart
+│   │   │   │   │   ├── user_profile_model.freezed.dart
+│   │   │   │   │   └── user_profile_model.g.dart
+│   │   │   │   ├── object
+│   │   │   │   │   ├── object.dart
+│   │   │   │   │   ├── token_object.dart
+│   │   │   │   │   ├── token_object.g.dart
+│   │   │   │   │   ├── user_object.dart
+│   │   │   │   │   ├── user_object.g.dart
+│   │   │   │   │   ├── user_profile_object.dart
+│   │   │   │   │   └── user_profile_object.g.dart
+│   │   │   │   └── repositories
+│   │   │   │       ├── repositories.dart
+│   │   │   │       └── user_repository_impl.dart
+│   │   │   ├── domain
+│   │   │   │   ├── domain.dart
+│   │   │   │   ├── entities
+│   │   │   │   │   ├── entities.dart
+│   │   │   │   │   ├── token_entity.dart
+│   │   │   │   │   ├── token_entity.freezed.dart
+│   │   │   │   │   ├── user_entity.dart
+│   │   │   │   │   ├── user_entity.freezed.dart
+│   │   │   │   │   ├── user_profile_entity.dart
+│   │   │   │   │   └── user_profile_entity.freezed.dart
+│   │   │   │   ├── repositories
+│   │   │   │   │   ├── repositories.dart
+│   │   │   │   │   └── user_repository.dart
+│   │   │   │   └── usecase
+│   │   │   │       ├── get_token.dart
+│   │   │   │       ├── get_user.dart
+│   │   │   │       ├── logout_use_case.dart
+│   │   │   │       ├── save_token.dart
+│   │   │   │       ├── save_user.dart
+│   │   │   │       └── usecase.dart
+│   │   │   ├── presentation
+│   │   │   │   ├── common
+│   │   │   │   │   ├── common.dart
+│   │   │   │   │   ├── pages
+│   │   │   │   │   │   ├── empty_state_screen.dart
+│   │   │   │   │   │   ├── failure_state_screen.dart
+│   │   │   │   │   │   └── pages.dart
+│   │   │   │   │   └── services
+│   │   │   │   │       ├── gemini_services.dart
+│   │   │   │   │       ├── notification_service.dart
+│   │   │   │   │       └── services.dart
+│   │   │   │   ├── main
+│   │   │   │   │   ├── main.dart
+│   │   │   │   │   ├── main_page.dart
+│   │   │   │   │   └── widget
+│   │   │   │   │       ├── navbar_item.dart
+│   │   │   │   │       └── widget.dart
+│   │   │   │   ├── pages
+│   │   │   │   │   ├── onboarding_page.dart
+│   │   │   │   │   ├── pages.dart
+│   │   │   │   │   └── splash_page.dart
+│   │   │   │   ├── profile
+│   │   │   │   │   ├── cubit
+│   │   │   │   │   │   ├── cubit.dart
+│   │   │   │   │   │   ├── user_cubit.dart
+│   │   │   │   │   │   ├── user_cubit.freezed.dart
+│   │   │   │   │   │   └── user_state.dart
+│   │   │   │   │   └── profile.dart
+│   │   │   │   ├── unknown
+│   │   │   │   │   ├── unknown.dart
+│   │   │   │   │   └── unknown_page.dart
+│   │   │   │   └── web
+│   │   │   │       ├── web.dart
+│   │   │   │       └── web_view_page.dart
+│   │   │   └── shared.dart
+│   │   └── video_apps
+│   │       ├── presentation
+│   │       │   ├── presentation.dart
+│   │       │   └── video_apps
+│   │       │       ├── video_apps.dart
+│   │       │       └── video_apps_page.dart
+│   │       └── video_apps.dart
+│   ├── libraries
+│   │   ├── common
+│   │   │   ├── common.dart
+│   │   │   ├── constants
+│   │   │   │   ├── app_resources.dart
+│   │   │   │   ├── constant.dart
+│   │   │   │   ├── constants.dart
+│   │   │   │   ├── endpoints.dart
+│   │   │   │   └── validators.dart
+│   │   │   └── helper
+│   │   │       ├── dialog_helper.dart
+│   │   │       ├── focus_helper.dart
+│   │   │       ├── helper.dart
+│   │   │       ├── restart_helper.dart.dart
+│   │   │       └── snackbar_helper.dart
+│   │   ├── components
+│   │   │   ├── app_bar
+│   │   │   │   ├── app_bar.dart
+│   │   │   │   └── primary_app_bar.dart
+│   │   │   ├── badge
+│   │   │   │   ├── badge.dart
+│   │   │   │   └── notification_badge.dart
+│   │   │   ├── button
+│   │   │   │   ├── button.dart
+│   │   │   │   ├── filter_button.dart
+│   │   │   │   ├── primary_button.dart
+│   │   │   │   └── secondary_button.dart
+│   │   │   ├── card_widget
+│   │   │   │   ├── product_card.dart
+│   │   │   │   ├── product_card_product.dart
+│   │   │   │   └── product_card_product_image_local.dart
+│   │   │   ├── components.dart
+│   │   │   ├── menu
+│   │   │   │   ├── card_header_dashboard.dart
+│   │   │   │   ├── menu.dart
+│   │   │   │   └── submenu_item.dart
+│   │   │   ├── navigator
+│   │   │   │   └── navigator_widget.dart
+│   │   │   ├── progress_indicator
+│   │   │   │   ├── loading_indicator.dart
+│   │   │   │   └── progress_indicator.dart
+│   │   │   ├── scroll_view
+│   │   │   │   ├── custom_scroll_view_wrapper.dart
+│   │   │   │   ├── custom_single_child_scroll_view_wrapper.dart
+│   │   │   │   └── scroll_view.dart
+│   │   │   ├── search_bar
+│   │   │   │   ├── search_bar.dart
+│   │   │   │   └── search_bar_widget.dart
+│   │   │   ├── slider
+│   │   │   │   ├── slider.dart
+│   │   │   │   ├── slider_partnership.dart
+│   │   │   │   ├── slider_product.dart
+│   │   │   │   ├── slider_widget.dart
+│   │   │   │   └── slider_widget_slider.dart
+│   │   │   ├── text_field
+│   │   │   │   ├── custom_text_field.dart
+│   │   │   │   └── text_field.dart
+│   │   │   ├── url_launcher
+│   │   │   │   └── url_launcher.dart
+│   │   │   └── wrapper
+│   │   │       ├── card_wrapper.dart
+│   │   │       ├── custom_sliver_wrapper.dart
+│   │   │       ├── custom_wrapper.dart
+│   │   │       ├── inkwell_wrapper.dart
+│   │   │       └── wrapper.dart
+│   │   ├── custome_line
+│   │   │   └── custome_line_widget.dart
+│   │   └── libraries.dart
+│   └── main.dart
+├── linux
+│   └── flutter
+│       ├── ephemeral
+│       ├── generated_plugin_registrant.cc
+│       ├── generated_plugin_registrant.h
+│       └── generated_plugins.cmake
+├── macos
+│   ├── Flutter
+│   │   ├── Flutter-Debug.xcconfig
+│   │   ├── Flutter-Release.xcconfig
+│   │   ├── GeneratedPluginRegistrant.swift
+│   │   └── ephemeral
+│   │       ├── Flutter-Generated.xcconfig
+│   │       └── flutter_export_environment.sh
+│   ├── Podfile
+│   ├── Runner
+│   │   ├── AppDelegate.swift
+│   │   ├── Assets.xcassets
+│   │   │   └── AppIcon.appiconset
+│   │   │       ├── Contents.json
+│   │   │       ├── app_icon_1024.png
+│   │   │       ├── app_icon_128.png
+│   │   │       ├── app_icon_16.png
+│   │   │       ├── app_icon_256.png
+│   │   │       ├── app_icon_32.png
+│   │   │       ├── app_icon_512.png
+│   │   │       └── app_icon_64.png
+│   │   ├── Base.lproj
+│   │   │   └── MainMenu.xib
+│   │   ├── Configs
+│   │   │   ├── AppInfo.xcconfig
+│   │   │   ├── Debug.xcconfig
+│   │   │   ├── Release.xcconfig
+│   │   │   └── Warnings.xcconfig
+│   │   ├── DebugProfile.entitlements
+│   │   ├── Info.plist
+│   │   ├── MainFlutterWindow.swift
+│   │   └── Release.entitlements
+│   ├── Runner.xcodeproj
+│   │   ├── project.pbxproj
+│   │   ├── project.xcworkspace
+│   │   │   └── xcshareddata
+│   │   │       └── IDEWorkspaceChecks.plist
+│   │   └── xcshareddata
+│   │       └── xcschemes
+│   │           └── Runner.xcscheme
+│   ├── Runner.xcworkspace
+│   │   ├── contents.xcworkspacedata
+│   │   └── xcshareddata
+│   │       └── IDEWorkspaceChecks.plist
+│   └── RunnerTests
+│       └── RunnerTests.swift
+├── pubspec.lock
+├── pubspec.yaml
+├── structure.txt
+├── web
+│   ├── favicon.png
+│   ├── icons
+│   │   ├── Icon-192.png
+│   │   ├── Icon-512.png
+│   │   ├── Icon-maskable-192.png
+│   │   └── Icon-maskable-512.png
+│   ├── index.html
+│   └── manifest.json
+└── windows
+    └── flutter
+        ├── generated_plugin_registrant.cc
+        ├── generated_plugin_registrant.h
+        └── generated_plugins.cmake
+
+385 directories, 1258 files
+aurellghania@Aurells-MacBook-Pro bnext_apps % 
